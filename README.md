@@ -13,10 +13,11 @@ Prediction secondary structure just by looking amino acid sequence of proteins.
 * Image-like input is given to model
 * CNN is used
 * Tried with RNN, LSTM or GRU but found little affect on accuracy 
+* Trained models for predicting 3 and 8 secondary structure is under _/trained-model_ 
 
 ## Benchmarks: ##
-* Prediction 3 secondary structures: %73
-* Prediction 8 secondary structures: %52
+* Predicting 3 secondary structures: %73
+* Predicting 8 secondary structures: %52
 
 ## Dependencies: ##
 * PyTorch
