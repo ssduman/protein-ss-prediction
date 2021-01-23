@@ -24,6 +24,8 @@ Prediction secondary structure just by looking amino acid sequence of proteins.
 * Numpy
 * Matplotlib
 * Seaborn
+* scikit-learn
+* torchsummary
 * Tested on Python 3.8.3 x64
 
 ## Datasets: ##
