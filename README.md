@@ -1,6 +1,8 @@
 # Protein Secondary Structure Prediction
 Prediction secondary structure just by looking amino acid sequence of proteins.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/perought/protein-ss-prediction/blob/master/protein_ss_prediction.ipynb)
+
 ## Summary: ##
 * All amino acid sequences are merged
 * 20 amino acid and their 3 secondary structures (E, H and t) or 8 secondary structures are used
