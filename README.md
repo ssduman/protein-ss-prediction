@@ -16,6 +16,7 @@ Prediction secondary structure just by looking amino acid sequence of proteins.
 * CNN is used
 * Tried with RNN, LSTM or GRU but found little affect on accuracy 
 * Trained models for predicting 3 and 8 secondary structure is under _/trained-model_ 
+<img src="https://github.com/perought/protein-ss-prediction/blob/master/img/architecture.png" alt="architecture" >
 
 ## Benchmarks: ##
 * Predicting 3 secondary structures: %73
